@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    max-width: 960px;
+    margin: 0 auto;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-size: 150%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.epic {
+    *color: #7035ee;
+    color: #a335ee;
+}
+
+.blue {
+    color: #025eb5;
+}
+
+.facts {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.facts li {
+    padding: 5px;
+}
+
+.region {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+.video {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.small {
+    font-size: 70%;
+}
